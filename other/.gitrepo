@@ -4,9 +4,9 @@
 ; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
 ;
 [subrepo]
-	remote = git@github.com:avcopan/git-subrepo-demo-other-repo.git
+	remote = https://github.com/Auto-Mech/git-subrepo-demo-other-repo.git
 	branch = main
-	commit = 6c177e6dae80113bd0f6b842cbaced33441bb8e1
-	parent = 3e7d8095dffe376f956fb997c0d24190ed055b5e
+	commit = 50039c817e3f8e1cdd89fc3e486cd422cb93fa9e
+	parent = 4f1e8c886fa4c123f71200bd77e4c155933dc023
 	method = rebase
 	cmdver = 0.4.9
